@@ -35,7 +35,7 @@ isort==4.3.4
 itsdangerous==1.1.0
 jason==0.1.7
 jedi==0.13.3
-Jinja2==2.10.1
+Jinja2==2.11.3
 joblib==0.13.2
 json262==0.2.0
 jupyter-client==5.2.4
